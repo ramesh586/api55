@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<assessmentQuestionVersion>
+		<additionalInformation>ParentQuestionDevName AI</additionalInformation>
+		<description>ParentQuestionDevName Desc</description>
+		<helpText>ParentQuestionDevName HT</helpText>
+		<isActive>true</isActive>
+		<name>ParentQuestionDevName</name>
+		<optionSourceResponseValue>true</optionSourceResponseValue>
+		<questionText>ParentQuestionDevName Text</questionText>
+		<status>Active</status>
+		<versionNumber>1</versionNumber>
+	</assessmentQuestionVersion>
+	<dataType>DateTime</dataType>
+	<developerName>ParentQuestionDevName</developerName>
+	<name>ParentQuestionDevName</name>
+	<questionCategory>Demographic</questionCategory>
+</AssessmentQuestion>
